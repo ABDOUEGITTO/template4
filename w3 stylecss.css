@@ -1,0 +1,162 @@
+.body{
+    margin: 0;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #ffffff;
+}
+
+.topnav {
+    list-style-type: none;
+    overflow: auto;
+    background: #ffffff;
+   
+}
+.topnav a{
+    float: left;
+   color: black;
+   text-align: center;
+   background-color: #ffffff;
+   display: block;
+   padding: 12px 20px;
+   font-size: 1.5vw;
+   text-decoration: none;
+
+}
+.topnav {
+    position: sticky;
+}
+.container{
+position: relative;
+}
+
+.textcenter  {
+    position: absolute;
+    top: 45%;
+    width: 7%;
+    margin-left: 400px;
+    text-align: center;
+    border: 1px solid black;
+    background: black;
+    color: white;
+    padding: 1%;
+    font-size: 40px;     }
+ .container img {
+    width: 100%;
+    height: auto;
+ } 
+ .topnav a:hover {
+    background-color: lightgrey;
+    border: none;
+    margin: 4px 5px 4px 5px;
+    display: inline-block;
+    text-align: center;
+    padding: 8px 16px;
+    width: auto;
+}
+.portofilio{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.portofilio .home-section h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.portofilio .foto-section{
+    overflow: hidden;
+   
+   }
+.portofilio .foto-section >img{
+    width: 23%;
+    float: left;
+    margin: 5px;
+}
+.about-section{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.about-section p{
+    line-height: 1.7;
+}
+.container .item-section{
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+}
+.item-section .part-1{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    border: 1px solid #ffffff;
+    text-align: center;
+}
+.item-section .part-1 button{
+    width: 150px;
+    height: 30px;
+}
+.item-section .part-2{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.item-section .part-2 button{
+    width: 150px;
+    height: 30px;}
+.item-section .part-3{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.item-section .part-3 button{
+    width: 150px;
+    height: 30px;}
+.item-section .part-4{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.item-section .part-4 button{
+    width: 150px;
+    height: 30px;}
+.container h3  {
+    text-align: center;
+    margin-top: 30px;
+} 
+.container p{
+    text-align: center;
+    line-height: 1.8;
+}  
+.container button{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 120px;
+    height: 30px;
+    background-color: black;
+    color: #ffffff;
+}
+.container button a{
+    color: #ffffff;
+    
+}
+.map img{
+    width: 100%;
+    
+}
+
+.footer{
+   width: 1000px;
+    padding: 20px;
+   background-color: black;
+   color: #ffffff;
+   text-align: center;
+
+}
+footer a{
+    margin-top: 15px;
+   
+}
+
+    
+    
